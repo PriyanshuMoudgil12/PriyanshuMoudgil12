@@ -43,6 +43,7 @@ Why private banks earn ~2× more per ₹ of assets than state-owned ones — and
 *Python · SQL · scikit-learn · XGBoost · Prophet · Plotly*
 
 7,043 telco customers, 23.1% churn → three classifiers (Logistic Regression wins at **0.786 AUC**), three 12-month forecasters (SARIMA at 13.3% MAPE), and six K-Means profit tiers ranked Diamond to At-Risk. Pinpoints a 353-customer list worth **$318k ARR / $207k profit** at risk in the next twelve months. **Shows:** running classification, forecasting, and segmentation in one end-to-end pipeline with stakeholder-ready recommendations.
+
 ---
 
 ## 📚 Currently Learning
