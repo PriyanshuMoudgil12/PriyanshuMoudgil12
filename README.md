@@ -38,12 +38,6 @@ Why private banks earn ~2× more per ₹ of assets than state-owned ones — and
 
 🔗 **[See the interactive Tableau dashboards →](https://public.tableau.com/app/profile/priyanshu.moudgil)**
 
-### 📈 [Financial Operations Analytics — Revenue Forecasting, Churn & Profitability](https://github.com/PriyanshuMoudgil12/financial-analytics-project)
-
-*Python · SQL · scikit-learn · XGBoost · Prophet · Plotly*
-
-7,043 telco customers, ~31% churn → three classifiers (Logistic Regression wins at **0.827 AUC, 78.5% accuracy**), three 12-month forecasters (Holt-Winters wins at **8.72% MAPE**, projecting $5.71M), and five K-Means profit tiers with Bronze and Standard genuinely loss-making per customer. Surfaces a **167-customer high-risk list worth ~$12.4K MRR (~$149K annualized)** ready for retention. **Shows:** running classification, forecasting, and segmentation in one end-to-end pipeline with stakeholder-ready recommendations.
-
 ---
 
 ## 📚 Currently Learning
