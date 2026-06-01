@@ -1,6 +1,6 @@
 # Hi, I'm Priyanshu Moudgil
 
-**BBA · 5th Semester · Chandigarh, India · building toward an analyst career.**
+**BBA · 5th Semester · Delhi, India · building toward an analyst career.**
 
 I run the same loop every week: pull data with SQL, dig into it with Python, visualize it in Tableau, and write up what to actually do about it. Each project ends the way an analyst's deliverable should — a specific number, a defensible test, a recommendation. Open to **Summer / Winter 2026 internships** in data, business, product, or BFSI analytics.
 
